@@ -36,7 +36,3 @@ If you use this code, please cite:
 ## Acknowledgements
 
 This work builds on[rdoste/InSilicoHeartGen](https://github.com/rdoste/InSilicoHeartGen) and [juliacamps/Cardiac-Digital-Twin](https://github.com/juliacamps/Cardiac-Digital-Twin), for cardiac digital twin modeling, Please also cite the relevant upstream methods if you use the simulation or model components.
-
-## License
-
-License information will be provided before public release. Please contact the authors for research-use questions.
