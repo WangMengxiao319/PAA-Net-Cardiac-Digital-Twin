@@ -14,8 +14,7 @@ The pipeline has two main stages:
 2. **Inverse inference of MI**
    - Encodes 3D ventricular geometry and 8-lead ECG signals and then fuses ECG and geometry features to predict normal myocardium, scar core, and border zone.
 
-## TODO
-- [ ] Clean and release the codebase.
+
 
 ## Citation
 
