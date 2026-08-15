@@ -1,6 +1,6 @@
 # PAA-Net for Cardiac Digital Twin MI Inference
 
-This repository contains the code for **Physiology and Anatomy Aware Inverse Inference of Myocardial Infarction for Cardiac Digital Twin**.
+This repository contains the code for **Physiology and Anatomy Aware Inverse Inference of Myocardial Infarction for Cardiac Digital Twin**, which has been accepted by MICCAI 2026 (Early-accept)
 
 ## Overview
 ![pipeline](assets/pipeline.png)
