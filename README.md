@@ -33,6 +33,21 @@ If you use this code, please cite:
 }
 ```
 
+```bibtex
+@article{campsHarnessing12leadECG2024,
+  title = {Harnessing 12-Lead {{ECG}} and {{MRI}} Data to Personalise Repolarisation Profiles in Cardiac Digital Twin Models for Enhanced Virtual Drug Testing},
+  author = {Camps, Julia and Wang, Zhinuo Jenny and Doste, Ruben and Berg, Lucas Arantes and Holmes, Maxx and Lawson, Brodie and Tomek, Jakub and Burrage, Kevin and Bueno-Orovio, Alfonso and Rodriguez, Blanca},
+  date = {2024-10-18},
+  journaltitle = {Medical Image Analysis},
+  shortjournal = {Med. Image Anal.},
+  pages = {103361},
+  issn = {1361-8415},
+  doi = {10.1016/j.media.2024.103361},
+  
+}
+
+```
+
 ## Acknowledgements
 
 This work builds on[rdoste/InSilicoHeartGen](https://github.com/rdoste/InSilicoHeartGen) and [juliacamps/Cardiac-Digital-Twin](https://github.com/juliacamps/Cardiac-Digital-Twin), for cardiac digital twin modeling, Please also cite the relevant upstream methods if you use the simulation or model components.
